@@ -38,8 +38,8 @@ Identify high-value customers at risk of churn and prioritize retention efforts 
 
 **3 Revenue Leakage from Churned Segments**
 
-| **Segment** |	**Revenue Share** |
-| --------------------------------|
+| Segment |	Revenue Share |
+| ----------- | ------------------|
 | Churned Low Value Mass Shoppers |	6.41% |
 | Churned Versatile Mid-Tier | 2.46% |
 | Churned One-Off Buyers | 5%+ combined |
