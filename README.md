@@ -17,11 +17,12 @@ Third, a logistics failure exists in the Whale Mid-Tier customer segment, where 
 **Customer Segmentation Matrix**
 
                      Behavioral Value Segment
-                    |------------------------|
-        |Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass|
-        |-----------------------------------------------------------|
-        | Whales |
-        | Long Tail |
+                    -----------------------------
+        Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass|
+        -----------------------------------------------------------
+        Whales 
+        
+        Long Tail 
 
 
 ## Key Findings:
@@ -201,11 +202,12 @@ This helped answer: *How do customers behave?*
 Customer Segmentation Matrix
 
                       Behavioral Value Segment
-               |------------------------------------------------|
-|Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass
-|--------------------------------------------------------------|
-|Whales |
-|Long Tail |             
+               ---------------------------------------------
+Revenue Lens  |  Elite Wholesale | Champions | Mid-Tier | Mass
+--------------------------------------------------------------
+Whales 
+
+Long Tail              
 
 
 
