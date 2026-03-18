@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore local environment folders
+venv/
+.env/
+
+# Ignore source control
+.git/
+.gitignore
+
+# Ignore local VS Code settings
+.vscode/
+
+# Ignore large raw data files (if you are hosting them elsewhere)
+# raw_data_backup/
