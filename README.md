@@ -227,7 +227,7 @@ Bulk order fulfillment errors in the mid tier segment are the largest operationa
 - Audit product categories responsible for the largest return volumes.
 - Implement warehouse scanning or automation to reduce picking errors.
 
-2. Marketing and Retention
+3. Marketing and Retention
 
 Implement personalized onboarding for high value first time buyers.
 
