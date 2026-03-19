@@ -2,7 +2,7 @@
 
 ## Executive Insight
 
-This analysis examines one year of transaction data containing more than 500,000 sales records across over 4,000 registered customers. Analysis reveals that the company’s risk is not driven by overall churn but **revenue concentration among a small group of customers and operational friction affecting these same customers.
+This analysis examines one year of transaction data containing more than 500,000 sales records across over 4,000 registered customers. Analysis reveals that the company’s risk is not driven by overall churn but **revenue concentration among a small group of customers and operational friction affecting these same customers**.
 
 Three structural realities define the current business model.
 
