@@ -41,7 +41,7 @@ _____
 **Low Frequency High Volume Returns**
 A small group of high value customers (317 Whale Mid-Tier) who drive 22% of the company's annual revenue are exposed to operational failures that threaten long-term stability. Although churn exists at an overa rate of 21.9%, most churn occurs among low value customers who contribute relatively little to total revenue. Therefore, the real risk lies in **revenue concentration and operational friction**.
 
-**Low Frequency High Volume Returns**
+**High Frequency low Volume Returns**
 Besides, the business is also experiencing high frequency small returns primarily from Low Value Mass customers. These returns create administrative overhead through thousands of service interactions. 
 
 - Taken together, the bulk returns create the largest financial burden, while Low Value Mass customers create the largest operational workload.
